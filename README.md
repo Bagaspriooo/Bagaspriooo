@@ -9,7 +9,7 @@
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
 |  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  |
-|  2 | 29-10-2026  | 01  | Widget Row dan Column  | [Modul 02](https://drive.google.com/drive/folders/1Lrz9AiDCkbKFyvO_3eXNHgoS4dX90vFq?usp=drive_link) | [Program](https://github.com/dwiandina08-oss/colomn_row "Template laporan") |
+|  2 | 29-10-2026  | 01  | Widget Row dan Column  | [Modul 02](https://drive.google.com/drive/folders/1Lrz9AiDCkbKFyvO_3eXNHgoS4dX90vFq?usp=drive_link) | [Program](https://github.com/Bagaspriooo/Modul-02) |
 |  3 | 29-10-2026  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://drive.google.com/drive/folders/1Lrz9AiDCkbKFyvO_3eXNHgoS4dX90vFq?usp=drive_link) | [Program](https://github.com/dwiandina08-oss/modul3 "Template laporan") |
 |  4 | 29-10-2026  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://drive.google.com/drive/folders/1Lrz9AiDCkbKFyvO_3eXNHgoS4dX90vFq?usp=drive_link) | [Program](https://github.com/dwiandina08-oss/modul4 "Template laporan") |
 |  5 | 29-10-2026 | 03  | Widget Flexible dan Expanded  | [Modul 05](https://drive.google.com/drive/folders/1Lrz9AiDCkbKFyvO_3eXNHgoS4dX90vFq?usp=drive_link) | [Program](https://github.com/dwiandina08-oss/modul5 "Template laporan") |
